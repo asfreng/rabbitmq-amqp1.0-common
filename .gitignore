@@ -25,5 +25,4 @@
 /*.plt
 
 # Generated source files.
-/include/amqp10_framing.hrl
-/src/amqp10_framing0.erl
+
